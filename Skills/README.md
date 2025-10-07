@@ -25,3 +25,6 @@ git push
 git log (historique)
 
 git checkout (prendre le commit ID que vous avez besoin)
+
+
+and follow Jirayacrew guys !!
